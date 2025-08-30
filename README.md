@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Currently working on how to implement GPT-2 from scratch<br>📚 I'm currently learning Software Engineering<br>🎯 Open to collaborations on projects<br>🎲 Fun fact: I procrastinate a lot</p>
+<p align="left">✨ Working on how to implement GPT-2 from scratch<br>📚 I'm currently learning Software Engineering<br>🎯 Open to collaborations on projects<br>🎲 Fun fact: I procrastinate a lot</p>
 
 ###
 
