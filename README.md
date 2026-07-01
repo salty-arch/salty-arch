@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Salman Abid and I'm a student in bachelor of computer science. I like to dabble in everything from simply sketching to understanding the implementation of AI.</p>
+<p align="left">My name is Salman Abid and I'm a student in bachelor of software engineering. I like to dabble in everything from simply sketching to understanding the implementation of AI.</p>
 
 ###
 
